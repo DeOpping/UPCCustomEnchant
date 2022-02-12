@@ -1,0 +1,7 @@
+main: dev.deopping.tutorialenchant.Core
+name: TutorialEnchant
+version: 1.0
+api-version: 1.18
+website: discord.deopping.dev
+author: Mantice
+depend: [UltraPrisonCore]
